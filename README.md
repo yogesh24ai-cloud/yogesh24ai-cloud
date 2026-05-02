@@ -24,8 +24,7 @@ I enjoy building projects, learning new technologies, and improving my problem-s
 - Web Development Projects
 
 ## 📫 Contact Details
-- 📧 Email: yogesh@example.com
-- 📱 Phone: +91-XXXXXXXXXX
+- 📧 Email: yogesh24ai@drttit.edu.in
 - 🔗 GitHub: https://github.com/yogesh24ai-cloud
 
 ## 🌟 Objective
